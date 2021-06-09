@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-Hi, my name's Mikaela and I'm an avid reader, bird mom and solo traveler who likes to tap away on a keyboard. Growing up, I was always interested in the "Hacker" character in movies and TV shows, curious about what they're doing and how they're doing it. I only ever thought that becoming a "Hacker" would remain a dream, until a friend introduced me to coding and I instantly realized, movies exaggerate everything. So I'll stick with developer, as it would be the closest thing.
+My name's Mikaela and I'm an avid reader, bird mom and solo traveler who likes to tap away on a keyboard. Growing up, I was always interested in the "Hacker" character in movies and TV shows, curious about what they're doing and how they're doing it. I only ever thought that becoming a "Hacker" would remain a dream, until a friend introduced me to coding and I instantly realized, movies exaggerate everything. So I'll stick with developer, as it would be the closest thing.
 
 The moment I fell in love with coding was the first time I created a button that changed colors everytime I clicked it. It was something so simple, yet the proud feeling of accomplishement was surreal. There on screen was proof that I could do and create anything I wanted. The thing that I enjoy the most about coding is that there is always something new to learn, there is always something new to create and that feeling of pride on accoplishing something, or even finishing a task will never run out, like a kid finding treasure on a walk at the park
+
+
+## Skills 
+![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png)
