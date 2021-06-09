@@ -45,4 +45,4 @@ A random quote/advice generator based on mood
 
 ### 🔍 Where to find me
 <a href="https://www.linkedin.com/in/mikaela-duguil"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
-<a href="mduguil\resume.pdf"><img src="https://img.shields.io/badge/-Resume-ff69b4" alt="View Resume" height="25"/></a>
+<a href="https://drive.google.com/file/d/1iLJ5yntvMYHMqsvLY8Qu0rava1mNgFke/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-ff69b4" alt="View Resume" height="25"/></a>
