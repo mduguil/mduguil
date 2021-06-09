@@ -37,8 +37,13 @@ The moment I fell in love with coding was the first time I created a button that
 
 
 ### Applications
-#### It's A Date
+#### It's A Date <a href="https://github.com/mduguil/It-s-A-Date">GitHub</a> | <a href="https://its-a-date1.herokuapp.com">Live</a>
 A scheduling app for hangouts with friends
+
+#### Just Read It <a href="https://github.com/mduguil/ajax-project">GitHub</a> | <a href="https://mduguil.github.io/ajax-project/">Live</a>
+A random quote/advice generator based on mood
 
 ### 🔍 Where to find me
 <a href="https://www.linkedin.com/in/mikaela-duguil"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
+<!-- <a><img src="https://img.shields.io/badge/-Resume-ff69b4" alt="View Resume" height="25"/></a> -->
+
