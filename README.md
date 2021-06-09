@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **mduguil/mduguil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 My name's Mikaela and I'm an avid reader, bird mom and solo traveler who likes to tap away on a keyboard. Growing up, I was always interested in the "Hacker" character in movies and TV shows, curious about what they're doing and how they're doing it. I only ever thought that becoming a "Hacker" would remain a dream, until a friend introduced me to coding and I instantly realized, movies exaggerate everything. So I'll stick with developer, as it would be the closest thing.
 
 The moment I fell in love with coding was the first time I created a button that changed colors everytime I clicked it. It was something so simple, yet the proud feeling of accomplishement was surreal. There on screen was proof that I could do and create anything I wanted. The thing that I enjoy the most about coding is that there is always something new to learn, there is always something new to create and that feeling of pride on accoplishing something, or even finishing a task will never run out, like a kid finding treasure on a walk at the park
@@ -36,12 +33,13 @@ The moment I fell in love with coding was the first time I created a button that
 <a href="https://github.com/mduguil"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 
 
-### Applications
+### :exclamation: Applications
 #### :date: It's A Date <a href="https://github.com/mduguil/It-s-A-Date">GitHub</a> | <a href="https://its-a-date1.herokuapp.com">Live</a>
 A scheduling app for hangouts with friends
 
 #### :zap: Just Read It <a href="https://github.com/mduguil/ajax-project">GitHub</a> | <a href="https://mduguil.github.io/ajax-project/">Live</a>
 A random quote/advice generator based on mood
+
 
 ### 🔍 Where to find me
 <a href="https://www.linkedin.com/in/mikaela-duguil"><img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" /></a>
