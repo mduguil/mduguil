@@ -34,10 +34,10 @@ The moment I fell in love with coding was the first time I created a button that
 
 
 ### :exclamation: Applications
-#### :date: It's A Date <a href="https://github.com/mduguil/It-s-A-Date">GitHub</a> | <a href="https://its-a-date1.herokuapp.com">Live</a>
+#### :date: It's A Date <a href="https://github.com/mduguil/It-s-A-Date">Source Code</a> | <a href="https://its-a-date1.herokuapp.com">Live</a>
 A scheduling app for hangouts with friends
 
-#### :zap: Just Read It <a href="https://github.com/mduguil/ajax-project">GitHub</a> | <a href="https://mduguil.github.io/ajax-project/">Live</a>
+#### :zap: Just Read It <a href="https://github.com/mduguil/ajax-project">Source Code</a> | <a href="https://mduguil.github.io/ajax-project/">Live</a>
 A random quote/advice generator based on mood
 
 
