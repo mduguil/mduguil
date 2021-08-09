@@ -17,7 +17,7 @@ My name's Mikaela and I'm an avid reader, bird mom and solo traveler who likes t
 
 The moment I fell in love with coding was the first time I created a button that changed colors everytime I clicked it. It was something so simple, yet the proud feeling of accomplishement was surreal. There on screen was proof that I could do and create anything I wanted. The thing that I enjoy the most about coding is that there is always something new to learn, there is always something new to create and that feeling of pride on accoplishing something, or even finishing a task will never run out, like a kid finding treasure on a walk at the park.
 
-🌱 I’m currently learning Redux
+🌱 I’m currently learning Typescript
 
 
 ### :woman_juggling: Skills
